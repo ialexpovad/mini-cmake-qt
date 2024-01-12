@@ -8,6 +8,9 @@ This is a minimal, but complete and production-ready CMake project template for 
   * Handling all possible Qt stuffs (UI, resources, ~~translations~~)
   * macOS bundle
   * Windows executable icon
+  * Use of modern [CMake](https://cmake.org/) for much easier compiling
+  * Setup for tests using [doctest](https://github.com/onqtam/doctest)
+  * Continuous testing with [Travis-CI](https://travis-ci.org/), [Appveyor](https://www.appveyor.com) and [GitHub Actions](https://github.com/features/actions), with support for C++17 and C-11.
 
 ## macOS Deployment
 
